@@ -1,6 +1,6 @@
-train: /Users/outingan/Desktop/2025_field_robot/dataset/train/images
-val: /Users/outingan/Desktop/2025_field_robot/dataset/val/images
-test: /Users/outingan/Desktop/2025_field_robot/dataset/test/images
+train: /content/2025_field_robot/dataset/train/images
+val: /content/2025_field_robot/dataset/val/images
+test: /content/Desktop/2025_field_robot/dataset/test/images
 
 nc: 4  # 類別數
 names: ['chick', 'pig', 'cow', 'machine']  # 類別名稱
